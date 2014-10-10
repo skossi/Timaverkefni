@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Timaverkefni</string>
-    <string name="hello_world">Þorsteinn Örn Gunnarsson og Óttar Guðmundsson</string>
+    <string name="hello_world">Þorsteinn Örn Gunnarsson</string>
     <string name="action_settings">Settings</string>
 
 </resources>
