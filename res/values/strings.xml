@@ -2,7 +2,11 @@
 <resources>
 
     <string name="app_name">Timaverkefni</string>
+<<<<<<< HEAD
     <string name="hello_world">Þorsteinn Örn Gunnarsson</string>
+=======
+    <string name="hello_world">Ekki lengur skossi heldur Óttar Guðmundsson</string>
+>>>>>>> 1d52c8ceed214ec5fe449321a2a055d1674bf3a9
     <string name="action_settings">Settings</string>
 
 </resources>
